@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Popular Movies Stage1</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w185/</string>
+</resources>
