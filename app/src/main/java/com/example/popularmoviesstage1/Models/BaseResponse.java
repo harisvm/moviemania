@@ -1,5 +1,6 @@
 package com.example.popularmoviesstage1.Models;
 
+import com.example.popularmoviesstage1.Mvvm.Result;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

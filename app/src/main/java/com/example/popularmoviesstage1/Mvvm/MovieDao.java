@@ -3,11 +3,8 @@ package com.example.popularmoviesstage1.Mvvm;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
-import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
-
-import com.example.popularmoviesstage1.Models.Result;
 
 import java.util.List;
 

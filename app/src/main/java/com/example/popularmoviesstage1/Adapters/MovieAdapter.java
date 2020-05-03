@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.popularmoviesstage1.Activities.MovieDetailActivity;
-import com.example.popularmoviesstage1.Models.Result;
+import com.example.popularmoviesstage1.Mvvm.Result;
 import com.example.popularmoviesstage1.R;
 import com.squareup.picasso.Picasso;
 

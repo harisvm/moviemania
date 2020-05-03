@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import com.example.popularmoviesstage1.Adapters.MovieAdapter;
 import com.example.popularmoviesstage1.Models.BaseResponse;
-import com.example.popularmoviesstage1.Models.Result;
+import com.example.popularmoviesstage1.Mvvm.Result;
 import com.example.popularmoviesstage1.Mvvm.FavoriteViewModel;
 import com.example.popularmoviesstage1.R;
 import com.example.popularmoviesstage1.RetrofitAndApis.ApiInterface;

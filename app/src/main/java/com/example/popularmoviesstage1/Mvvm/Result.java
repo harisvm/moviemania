@@ -1,4 +1,4 @@
-package com.example.popularmoviesstage1.Models;
+package com.example.popularmoviesstage1.Mvvm;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -8,8 +8,6 @@ import androidx.room.PrimaryKey;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-
-import java.util.List;
 
 @Entity(tableName = "favorites")
 public class Result implements Parcelable {

@@ -6,8 +6,6 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.popularmoviesstage1.Models.Result;
-
 import java.util.List;
 
 public class FavoriteViewModel extends AndroidViewModel {

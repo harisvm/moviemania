@@ -5,8 +5,6 @@ import android.os.AsyncTask;
 
 import androidx.lifecycle.LiveData;
 
-import com.example.popularmoviesstage1.Models.Result;
-
 import java.util.List;
 
 public class MovieRepository {
