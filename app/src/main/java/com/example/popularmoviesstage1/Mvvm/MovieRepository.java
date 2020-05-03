@@ -2,7 +2,6 @@ package com.example.popularmoviesstage1.Mvvm;
 
 import android.app.Application;
 import android.os.AsyncTask;
-import android.widget.Toast;
 
 import androidx.lifecycle.LiveData;
 
